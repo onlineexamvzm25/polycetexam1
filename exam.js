@@ -216,6 +216,7 @@ document.getElementById("download-pdf").addEventListener("click", function(event
   const resmarks = "Correct : " + CorrectdCount;
   const wrmarks = "Wrong : " + WrongCount;
   const examresult = "Note : Exam Result/State Ranks of all students will be provided tomorrow";
+  const contactdet = "For more details contact/watsup on 8125250125 ";
 
   // Apply replaceSymbols to basic information
   content += `<h2>${replaceSymbols(exname)}</h2>`;
@@ -226,6 +227,7 @@ document.getElementById("download-pdf").addEventListener("click", function(event
   content += `<p>${replaceSymbols(resmarks)}</p>`;
   content += `<p>${replaceSymbols(wrmarks)}</p>`;
   content += `<p>${replaceSymbols(examresult)}</p>`;
+  content += `<p>${replaceSymbols(contactdet)}</p>`;
   content += '<br><br>';
 
   // Sort the loadedData based on qid (question id) to ensure the correct order
