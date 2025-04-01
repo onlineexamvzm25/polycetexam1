@@ -353,6 +353,7 @@ function replaceSymbols(text) {
     .replace(/°/g, '&deg;')   // Replace ° (Degree symbol)
     .replace(/²/g, '&sup2;')   // Replace ² (Square)
     .replace(/³/g, '&sup3;')
+    .replace(/Ω/g, '&Omega;')  
     .replace(/≤/g, '&le;');    // Replace ≤ (Less than or equal)
 }
 
