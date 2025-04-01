@@ -506,7 +506,7 @@
   "qopt3": "Hydrogen",
   "qopt4": "Carbon dioxide",
   "qans": "3",
-  "qhint": "When a metal reacts with an acid, hydrogen gas (H₂) is evolved.",
+  "qhint": "When a metal reacts with an acid, hydrogen gas (H2) is evolved.",
   "imgid": "0"
 },
 {
@@ -517,7 +517,7 @@
   "qopt3": "2Hcl+Na-->Na2cl+H2",
   "qopt4": "Hcl+2Na-->Na2Co3+H2",
   "qans": "1",
-  "qhint": "Sodium reacts with hydrochloric acid to form sodium chloride and hydrogen gas. \n 2HCl + 2Na → 2NaCl + H2 ",
+  "qhint": "Sodium reacts with hydrochloric acid to form sodium chloride and hydrogen gas. \n 2HCl + 2Na --> 2NaCl + H2 ",
   "imgid": "0"
 },
  {
@@ -539,7 +539,7 @@
   "qopt3": "2%",
   "qopt4": "3%",
   "qans": "2",
-  "qhint": "The % of CO2 in the atmosphere is about 0.03%. \n Note that this refers to carbon in the form of CO₂, not elemental carbon.",
+  "qhint": "The % of CO2 in the atmosphere is about 0.03%. \n Note that this refers to carbon in the form of CO2, not elemental carbon.",
   "imgid": "0"
 },
  {
@@ -599,7 +599,7 @@
 },
 {
   "qid": "55",
-  "qname": "53. Assertion (a): In a chemical reaction, the number of atoms of each element remains the same before and after the reaction. () Reason(R): This is in accordance with the law of conservation of mass.",
+  "qname": "Assertion (a): In a chemical reaction, the number of atoms of each element remains the same before and after the reaction.Reason(R): This is in accordance with the law of conservation of mass.",
   "qopt1": "Both (a) and (R) are true and (R) is the correct explanation of (a).",
   "qopt2": "Both (a) and (R) are true and (R) is not the correct explanation of (a).",
   "qopt3": "The assertion is true, but the reasoning is false.",
