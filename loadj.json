@@ -14,7 +14,7 @@
 },
 {
   "qid": "2",
-  "qname": " If the zeroes of the quadratic polynomial x^2 + (a + 1) x + b are 2 and -3, then",
+  "qname": " If the zeroes of the quadratic polynomial x² + (a + 1) x + b are 2 and -3, then",
   "qopt1": "a = -7, b = -1",
   "qopt2": "a = 5, b = -1",
   "qopt3": "a = 2, b = -6",
@@ -53,18 +53,18 @@
   "qopt3": "1, 4",
   "qopt4": "19/5, 6/5",
   "qans": "4",
-  "qhint": "Given x+y=5  => y=5-x  \n Given 2x-y=4 so  2x-3(5-x)=4 \n x=19/5. \n Also y=5-x , so y=5-19/5 \n y=6/5",
+  "qhint": "Given x+y=5  => y=5-x  \n Given 2x-3y=4 so  2x-3(5-x)=4 \n x=19/5. \n Also y=5-x , so y=5-19/5 \n y=6/5",
   "imgid": "0"
 },
  {
   "qid": "6",
   "qname": "Which of the following equation has 2 as a root?",
-  "qopt1": "x^2 - 4x + 5 = 0",
-  "qopt2": "x^2 + 3x - 12 = 0",
-  "qopt3": "2x^2 - 7x + 6 = 0",
-  "qopt4": "3x^2 - 6x - 2 = 0",
+  "qopt1": "x² - 4x + 5 = 0",
+  "qopt2": "x² + 3x - 12 = 0",
+  "qopt3": "2x² - 7x + 6 = 0",
+  "qopt4": "3x² - 6x - 2 = 0",
   "qans": "3",
-  "qhint": "We can substitute x=2 into each equation and check if the equation equals 0. \n 2x^2 - 7x + 6 = 0 is the solution",
+  "qhint": "We can substitute x=2 into each equation and check if the equation equals 0. \n 2x² - 7x + 6 = 0 is the solution",
   "imgid": "0"
 },
 {
@@ -75,7 +75,7 @@
   "qopt3": "13, 15",
   "qopt4": "11, 13",
   "qans": "4",
-  "qhint": "Two consecutive odd integers be x and x+2 \n The sum of their squares is: \n  x^2+(x+2)^2=290 \n  x^2+(x^2+4x+4)=290 \n  2x^2+4x+4=290 \n 2x^2+4x-286=0 \n Divided by 2, \n x^2+2x-143=0 \n Factor of quadratic equation \n  x^2+13x-11x-143=0 \n x(x+13)-11(x+13)=0 \n (x+13)(x-11)=0 \n Then X=-13(X should not a postive integer) \n So x=11 \n Then two odd integers 11,13",
+  "qhint": "Two consecutive odd integers be x and x+2 \n The sum of their squares is: \n  x²+(x+2)²=290 \n  x²+(x²+4x+4)=290 \n  2x²+4x+4=290 \n 2x²+4x-286=0 \n Divided by 2, \n x²+2x-143=0 \n Factor of quadratic equation \n  x²+13x-11x-143=0 \n x(x+13)-11(x+13)=0 \n (x+13)(x-11)=0 \n Then X=-13(X should not a postive integer) \n So x=11 \n Then two odd integers 11,13",
   "imgid": "0"
 },
 {
@@ -97,12 +97,12 @@
   "qopt3": "13",
   "qopt4": "5",
   "qans": "1",
-  "qhint": "Pythagorean theorem:\n         a^2+b^2=c^2\n Where c=17 (the largest number) and a=15( one of the smallest number)\n    15^2+b^2=17^2\n    225+b^2=289\n            b^2=64\n               b =8",
+  "qhint": "Pythagorean theorem:\n         a²+b²=c²\n Where c=17 (the largest number) and a=15( one of the smallest number)\n    15²+b²=17²\n    225+b²=289\n            b²=64\n               b =8",
   "imgid": "0"
 },
  {
   "qid": "10",
-  "qname": "In traingle ABC, AB = 5 cm, AC = 7 cm. If AD is the angle bisector of angle A. Then BD : CD is:",
+  "qname": "In △ABC, AB = 5 cm, AC = 7 cm. If AD is the angle bisector of angle A. Then BD : CD is:",
   "qopt1": "25 : 49",
   "qopt2": "49 : 25",
   "qopt3": "6 : 1",
@@ -135,11 +135,11 @@
 },
 {
   "qid": "13",
-  "qname": "If sin A = cos A and the value of A lies between 0 and 90, then A = ",
-  "qopt1": "0",
-  "qopt2": "45",
-  "qopt3": "90",
-  "qopt4": "30",
+  "qname": "If sin A = cos A and the value of A lies between 0° and 90°, then A = ",
+  "qopt1": "0°",
+  "qopt2": "45°",
+  "qopt3": "90°",
+  "qopt4": "30°",
   "qans": "2",
   "qhint": "Values of A between 0° and 90°, the sin and cos functions are equal when A=45°",
   "imgid": "0"
@@ -174,7 +174,7 @@
   "qopt3": "30 cm²",
   "qopt4": "32.5 cm²",
   "qans": "1",
-  "qhint": "Given  OP=13, OR=OQ=5\n  using Pythagoreas theorem find the length of tangents.\n In triangle OPQ, OP^2=OQ^2+PQ^2\n   PQ=12CM\n  The quadrilateral PQOR can divided into two triangles ∆OPQ and ∆OPR.\n  area of ∆OPQ=(1/2)×OQ×PQ\n      = 30sq.cm\n ∆OPQ and ∆OPR are congruent,\n the total area of the quadrilateral PQOR is:\n  area of PQOR=30+30\n =60sq.cm",
+  "qhint": "Given  OP=13, OR=OQ=5\n  using Pythagoreas theorem find the length of tangents.\n In triangle OPQ, OP²=OQ²+PQ²\n   PQ=12CM\n  The quadrilateral PQOR can divided into two triangles △OPQ and △OPR.\n  area of △OPQ=(1/2)*OQ*PQ\n      = 30sq.cm\n △OPQ and △OPR are congruent,\n the total area of the quadrilateral PQOR is:\n  area of PQOR=30+30\n =60sq.cm",
   "imgid": "0"
 },
  {
@@ -196,7 +196,7 @@
   "qopt3": "1980 m",
   "qopt4": "1596 m",
   "qans": "3",
-  "qhint": "(Distance traveled in one revolution)\n Formula of circumference C of a circleis:\n      C=π X diameter\n     C= π X 1.26\n       = 3.96meters\n 500 revolutions= 500 X 3.96\n                              =1980meters",
+  "qhint": "(Distance traveled in one revolution)\n Formula of circumference C of a circleis:\n      C=π * diameter\n     C= π * 1.26\n       = 3.96meters\n 500 revolutions= 500 * 3.96\n                              =1980meters",
   "imgid": "0"
 },
  {
@@ -207,7 +207,7 @@
   "qopt3": "8 units",
   "qopt4": "2 units",
   "qans": "3",
-  "qhint": "Area of a circle(A)=πr^2\n Circumference of a circle(C)=2πr\n We are told the area is numerically equal to twice the circumference,so:\n πr^2=2 * (2πr)\n πr^2=4πr\n (Both side divided πr)\n r=4\n The diameter d of a circle is twice the radius:\n d=2r=2 * 4=8units",
+  "qhint": "Area of a circle(A)=πr²\n Circumference of a circle(C)=2πr\n We are told the area is numerically equal to twice the circumference,so:\n πr²=2 * (2πr)\n πr²=4πr\n (Both side divided πr)\n r=4\n The diameter d of a circle is twice the radius:\n d=2r=2 * 4=8units",
   "imgid": "0"
 },
 {
@@ -218,7 +218,7 @@
   "qopt3": "3:2",
   "qopt4": "None",
   "qans": "1",
-  "qhint": "The surface of the sphere:  A(sphere)=4πr^2\n Surface area of the cube: A(cube)= 6a^2\n Volume of the sphere: V1=(4/3)πr^3\n Volume of the cube: V2=a^3\n Equating the surface area:  4πr^2=6a^2\n      πr^2=1.5a^2\n      r^2=(1.5a^2)/π\n      r=a√(1.5/π)\n Ratio of the volumesV1:V2  V1:V2={(4/3)πr^3}/a^3\n Substitute r value\n   V1:V2=4/3(1.5/π)^3/2\n After simplifying the powers and constants,\n The ratio comes out to be 3:2",
+  "qhint": "The surface of the sphere:  A(sphere)=4πr²\n Surface area of the cube: A(cube)= 6a²\n Volume of the sphere: V1=(4/3)πr^3\n Volume of the cube: V2=a^3\n Equating the surface area:  4πr²=6a²\n      πr²=1.5a²\n      r²=(1.5a²)/π\n      r=a√(1.5/π)\n Ratio of the volumesV1:V2  V1:V2={(4/3)πr^3}/a^3\n Substitute r value\n   V1:V2=4/3(1.5/π)^3/2\n After simplifying the powers and constants,\n The ratio comes out to be 3:2",
   "imgid": "0"
 },
   {
@@ -240,7 +240,7 @@
   "qopt3": "3 cm",
   "qopt4": "2 cm",
   "qans": "1",
-  "qhint": "Curved surface area of a cylinder: CSA=2πrh\n 88=2πr(14)\n r=88/28π\n r=88/(28×3.14)\n r=1\n Diameter= 2r  => 2*1=2",
+  "qhint": "Curved surface area of a cylinder: CSA=2πrh\n 88=2πr(14)\n r=88/28π\n r=88/(28*3.14)\n r=1\n Diameter= 2r  => 2*1=2",
   "imgid": "0"
 },
  {
@@ -528,7 +528,7 @@
   "qopt3": "(a) is true, but (R) is false.",
   "qopt4": "(a) is false, but (R) is true. ",
   "qans": "3",
-  "qhint": "Acids release hydrogen ions (H⁺) in solution, not hydroxide ions (OH⁻).",
+  "qhint": "Acids release hydrogen ions (H+) in solution, not hydroxide ions (OH-).",
   "imgid": "0"
 },
 {
@@ -539,7 +539,7 @@
   "qopt3": "2%",
   "qopt4": "3%",
   "qans": "2",
-  "qhint": "The % of CO₂ in the atmosphere is about 0.03%. \n Note that this refers to carbon in the form of CO₂, not elemental carbon.",
+  "qhint": "The % of CO2 in the atmosphere is about 0.03%. \n Note that this refers to carbon in the form of CO₂, not elemental carbon.",
   "imgid": "0"
 },
  {
@@ -610,7 +610,7 @@
 },
 {
   "qid": "56",
-  "qname": "2PbO + C → 2Pb + CO2. Which of the following statements are correct for the given chemical reaction?",
+  "qname": "2PbO + C --> 2Pb + CO2. Which of the following statements are correct for the given chemical reaction?",
   "qopt1": "Lead oxide is reduced",
   "qopt2": "Carbon dioxide ",
   "qopt3": "Carbon is reduced",
