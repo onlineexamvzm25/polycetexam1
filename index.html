@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Validation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>Enter Details</h2>
+        <form id="validationForm">
+            <div class="form-group">
+                <label for="phone">Phone Number:</label>
+                <input type="text" id="phone" name="phone" maxlength="10" required>
+                <span id="phoneError" class="error-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="district">Select District:</label>
+                <select id="district" name="district" required>
+                    <option value="district1">VIZIANAGARAM</option>
+                    <option value="district2">VISHAKHAPATNAM</option>
+                    <option value="district3">SRIKAKULAM</option>
+                    <option value="district4">EAST GODAVARI</option>
+                    <option value="district5">WEST GODAVARI</option>
+                    <option value="district6">KRISHNA</option>
+                    <option value="district7">GUNTUR</option>
+                    <option value="district8">PRAKASAM</option>
+                    <option value="district9">NELLORE</option>
+                    <option value="district10">CHITTOR</option>
+                    <option value="district11">KADAPA</option>
+                    <option value="district12">KURNOOL</option>
+                    <option value="district13">ANANTHAPUR</option>
+                </select>
+                <span id="districtError" class="error-message"></span>
+            </div>
+
+            <button type="submit" id="submitBtn">Submit</button>
+
+             <!-- Footer Section -->
+        <div class="footer">
+           <br> <br> <marquee class="moving-text">Contact 8125250125 for more details..!</marquee>
+        </div>
+
+
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

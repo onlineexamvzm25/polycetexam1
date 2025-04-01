@@ -1,0 +1,116 @@
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container styling */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* Styling for the panel/table */
+.exam-panel {
+    margin-top: 40px;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+/* Style for each exam label and link (side-by-side) */
+label {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Styling for the heading */
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Footer Section Styling */
+.footer {
+    margin-top: 50px;
+    background-color: #99d0e3;
+    color: white;
+    padding: 10px 0;
+}
+
+.footer-link {
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #6e8bab;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.footer-link:hover {
+    background-color: #07090b;
+}
+
+/* Marquee Styling */
+.moving-text {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #0d0b02;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    table {
+        font-size: 14px;
+    }
+    th, td {
+        padding: 10px;
+    }
+}
+
+downloadBtn[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  downloadBtn:hover {
+    background-color: #45a049;
+  }
