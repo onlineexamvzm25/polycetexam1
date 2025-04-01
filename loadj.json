@@ -26,12 +26,12 @@
 {
   "qid": "3",
   "qname": "Dividend is equal to",
-  "qopt1": "divisor  X quotient + remainder",
-  "qopt2": "divisior X quotient",
-  "qopt3": "divisior X quotient - remainder",
-  "qopt4": "divisor X quotient - remainder",
+  "qopt1": "divisor  * quotient + remainder",
+  "qopt2": "divisior * quotient",
+  "qopt3": "divisior * quotient - remainder",
+  "qopt4": "divisor * quotient - remainder",
   "qans": "1",
-  "qhint": "Divsor X quotient+remainder  \n Formulate remaining also once..!",
+  "qhint": "Divsor * quotient+remainder  \n Formulate remaining also once..!",
   "imgid": "0"
 },
  {
