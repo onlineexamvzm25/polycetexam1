@@ -111,17 +111,19 @@
   "qhint": "the angle bisector theorem states that the angle bisector divides the opposite side(BC) into segments that are proportional to the adjacent sides,\n BD/CD=AB/AC\n BD/CD=5/7",
   "imgid": "0"
 },
+
 {
   "qid": "11",
-  "qname": "The points (-5, 1), (1, p) and (4, -2) are collinear. Then the value of p is",
-  "qopt1": "3",
-  "qopt2": "2",
-  "qopt3": "1",
-  "qopt4": "-1",
+  "qname": "If the distance between the points (x, -1) and (3, 2) is 5, then the value of x is",
+  "qopt1": "-7 or -1",
+  "qopt2": "-7 or 1",
+  "qopt3": "7 or 1",
+  "qopt4": "7 or -1",
   "qans": "4",
-  "qhint": "Let A(-5, 1), B(1, p), C(4, -2) are given Points \n Find the lengths of AB, BC and CA  \n Given  3 points are collinear, \n So AB + BC = AC  \n Note : try slopes concept also if you know",
+  "qhint": "Points (x, -1) and (3, 2) \n d=√{(x2-x1)²+(y2-y1)²} \n 5=√{(3-x)²+(2-(-1))²} \n 5=√{(3-x)²+9} \n 25=(3-x)²+9 \n 16=(3-x)² \n √16=3-x \n so, x=3-4= -1 and  x=3+4 =7",
   "imgid": "0"
 },
+
 {
   "qid": "12",
   "qname": " The graph of a quadratic equation is a :",
@@ -168,13 +170,13 @@
 },
 {
   "qid": "16",
-  "qname": "From a point P which is at a distance of 13 cm from the point O of a circle of radius 5 cm, the pair of tangents PQ and PR to the circle are drawn. Then the area of the quadrilateral PQOR is",
-  "qopt1": "60 cm²",
-  "qopt2": "65 cm²",
-  "qopt3": "30 cm²",
-  "qopt4": "32.5 cm²",
-  "qans": "1",
-  "qhint": "Given  OP=13, OR=OQ=5\n  using Pythagoreas theorem find the length of tangents.\n In triangle OPQ, OP²=OQ²+PQ²\n   PQ=12CM\n  The quadrilateral PQOR can divided into two triangles △OPQ and △OPR.\n  area of △OPQ=(1/2)*OQ*PQ\n      = 30sq.cm\n △OPQ and △OPR are congruent,\n the total area of the quadrilateral PQOR is:\n  area of PQOR=30+30\n =60sq.cm",
+  "qname": "The tangent at any point of a circle is ---- to the radius through the point of contact.",
+  "qopt1": "Parallel",
+  "qopt2": "Perpendicular",
+  "qopt3": "Same Length",
+  "qopt4": "None",
+  "qans": "2",
+  "qhint": "Perpendicularity: \n When a tangent line meets the radius at the point of contact,\n it forms a right angle (90°).",
   "imgid": "0"
 },
  {
@@ -212,13 +214,13 @@
 },
 {
   "qid": "20",
-  "qname": "The surface areas of a sphere and a cube are equal and if their volumes are V1 and V2 respectively, then V1:V2 : ",
-  "qopt1": "3:√2",
-  "qopt2": "√6:2",
-  "qopt3": "3:2",
-  "qopt4": "None",
+  "qname": "The breadth of a room is twice its height and is half of its length. The volume of room is 512 cm^3.Its dimensions are :",
+  "qopt1": "16 cm, 8 cm, 4 cm",
+  "qopt2": "12 cm, 8 cm, 2 cm",
+  "qopt3": "8 cm, 4 cm, 2 cm",
+  "qopt4": "10 cm, 15 cm, 20 cm",
   "qans": "1",
-  "qhint": "The surface of the sphere:  A(sphere)=4πr²\n Surface area of the cube: A(cube)= 6a²\n Volume of the sphere: V1=(4/3)πr^3\n Volume of the cube: V2=a^3\n Equating the surface area:  4πr²=6a²\n      πr²=1.5a²\n      r²=(1.5a²)/π\n      r=a√(1.5/π)\n Ratio of the volumesV1:V2  V1:V2={(4/3)πr^3}/a^3\n Substitute r value\n   V1:V2=4/3(1.5/π)^3/2\n After simplifying the powers and constants,\n The ratio comes out to be 3:2",
+  "qhint": "Volume=length*breadth*height \n Volume=4h*2h*h=8h^3 \n given that the volume is 512 cm^3 \n So, 8h^3 = 512  => h^3 = 64  => h=4 \n So, length = 16 cm, breadth = 8 cm, height =4 cm.",
   "imgid": "0"
 },
   {
@@ -229,7 +231,7 @@
   "qopt3": "20 cm",
   "qopt4": "25 cm",
   "qans": "2",
-  "qhint": "Original cube volume =edge^3  I,E (12)^3 = 1728cm^3\n First small cube volume V1=6^3=216cm^3\n Second small cube volume V2=8^3=512cm^3\n Find the volume of third cube:\n V original=V1+V2+V3\n 1728=216+512+V3 \n V3=1000cm^3\n Find the edge of third cube:\n V3=edge^3\n Edge^3= 1000\n Edge=10",
+  "qhint": "Original cube volume =edge^3  i,e (12)^3 = 1728cm^3\n First small cube volume V1=6^3=216cm^3\n Second small cube volume V2=8^3=512cm^3\n Find the volume of third cube:\n V original=V1+V2+V3\n 1728=216+512+V3 \n V3=1000cm^3\n Find the edge of third cube:\n V3=edge^3\n Edge^3= 1000\n Edge=10",
   "imgid": "0"
 },
  {
