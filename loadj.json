@@ -251,7 +251,7 @@
   "qopt3": "72",
   "qopt4": "none of these ",
   "qans": "1",
-  "qhint": "Mode=L+{(f1-f0)/(2f1-f0-f2)}*h\n =40+ (4/15)*15\n  = 40+4.29\n    =44.29\n But no options provided ",
+  "qhint": "Mode=L+{(f1-f0)/(2f1-f0-f2)}*h\n =40+ (4/5)*15\n  = 40+12\n    =52\n ",
   "imgid": "0"
 },
 {
