@@ -228,7 +228,7 @@
   "qopt2": "10 cm",
   "qopt3": "20 cm",
   "qopt4": "25 cm",
-  "qans": "1",
+  "qans": "2",
   "qhint": "Original cube volume =edge^3  I,E (12)^3 = 1728cm^3\n First small cube volume V1=6^3=216cm^3\n Second small cube volume V2=8^3=512cm^3\n Find the volume of third cube:\n V original=V1+V2+V3\n 1728=216+512+V3 \n V3=1000cm^3\n Find the edge of third cube:\n V3=edge^3\n Edge^3= 1000\n Edge=10",
   "imgid": "0"
 },
@@ -239,7 +239,7 @@
   "qopt2": "4 cm",
   "qopt3": "3 cm",
   "qopt4": "2 cm",
-  "qans": "1",
+  "qans": "4",
   "qhint": "Curved surface area of a cylinder: CSA=2πrh\n 88=2πr(14)\n r=88/28π\n r=88/(28*3.14)\n r=1\n Diameter= 2r  => 2*1=2",
   "imgid": "0"
 },
