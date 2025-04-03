@@ -26,7 +26,7 @@ loadExamDetails();
 function loadExamDetails(){
 // Assume your JSON file is 'data.json' in the same directory as your JavaScript file
 
-fetch('user.json')
+fetch('user2.json')
   .then(response => response.json())
   .then(udata => {
     
