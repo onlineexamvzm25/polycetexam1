@@ -1,11 +1,11 @@
 [
 
     {
-        "examid":"POLYCET2025FE1",
+        "examid":"POLYCET2025UT1",
         "usr": "mmm",
-        "pwrd": "mah",
-        "maxquestions":"60",
-        "duration": "3900"
+        "pwrd": "POLI25",
+        "maxquestions":"80",
+        "duration": "4800"
         
     }
 
