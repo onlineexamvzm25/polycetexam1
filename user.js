@@ -34,8 +34,8 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
     
-    //if(password==pswrd)
-      if((password.length)>1){
+    if(password==pswrd) {
+      //if((password.length)>1){
         window.location.href = "exam.html";
     }
     else {
