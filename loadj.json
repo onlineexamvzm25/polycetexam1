@@ -39,7 +39,7 @@
     "qopt2": "both cannot be positive",
     "qopt3": "both unequal",
     "qopt4": "both cannot be negative",
-    "qans": "",
+    "qans": "2",
     "qhint": "Sum of the roots = -p/1\n = -p\n Product of the roots = p/1\n = p\n If p is negative,\n Sum of the roots is positive\n Product of the roots is negative.\n So, one zero will be positive and other zero will be negative\n If p is positive,\n Sum of the roots is negative\n Product of the roots is positive.\n So, both the zeros will be negative.\n Therefore, the zeros of the quadratic polynomial in both cases cannot be positive.",
     "imgid": "0"
   },
@@ -138,9 +138,9 @@
     "qname": "The number of polynomials having zeroes as 4 and 7 is",
     "qopt1": "2",
     "qopt2": "3",
-    "qopt3": "4",
+    "qopt3": "more than 4",
     "qopt4": "4",
-    "qans": "4",
+    "qans": "3",
     "qhint": "A polynomial with roots x=4 and x=7 can be written as\n\n P(x)=a(x-4)(x-7)\n Where a is a constant this is a quadratic polynomial with exactly two roots at 4 and 7.\n How ever, if you allow any constant factor a,\n There are infinitely many such polynomial because a can take any real number value\n Answer: more than 4.",
     "imgid": "0"
   },
@@ -174,7 +174,7 @@
     "qopt2": "Trigonometr",
     "qopt3": "Geometry",
     "qopt4": "None",
-    "qans": "ANS",
+    "qans": "2",
     "qhint": "Na",
     "imgid": "0"
   },
@@ -186,7 +186,7 @@
     "qopt3": "None of these",
     "qopt4": "Cant Say",
     "qans": "2",
-    "qhint": "Do not vary\n\n This is because the trigonometric ratios(sine,cosine,tangent,etc.) of an angle are independent of the actual size of the traingle,as long as the angle itself remains unchanged.the ratio only depends on the angle, not on the length of the sides.",
+    "qhint": "Do not vary\n This is because the trigonometric ratios(sine,cosine,tangent,etc.) of an angle are independent of the actual size of the traingle,as long as the angle itself remains unchanged.the ratio only depends on the angle, not on the length of the sides.",
     "imgid": "0"
   },
   {
@@ -251,7 +251,7 @@
     "qopt2": "cos A",
     "qopt3": "tan A",
     "qopt4": "CotA",
-    "qans": "ANS",
+    "qans": "2",
     "qhint": "Sin(90°-A)=cosA",
     "imgid": "0"
   },
@@ -270,7 +270,7 @@
   },
   {
     "qid": "25",
-    "qname": "If sin A = cos A and the value of A lies between o and 90, then A = ?",
+    "qname": "If sin A = cos A and the value of A lies between 0 and 90, then A = ?",
     "qopt1": "0",
     "qopt2": "45",
     "qopt3": "90",
@@ -470,7 +470,7 @@
   },
   {
     "qid": "43",
-    "qname": "In Δ ABC, AB = 5 cm, AC = 7 cm. If AD is the angle bisector of ∠A. Then BD : CD is:",
+    "qname": "In Δ ABC, AB = 5 cm, AC = 7 cm. If AD is the angle bisector of angle of A. Then BD : CD is:",
     "qopt1": "25 : 49",
     "qopt2": "49 : 25",
     "qopt3": "6 : 1",
@@ -487,7 +487,7 @@
     "qopt3": "26''",
     "qopt4": "27''",
     "qans": "4",
-    "qhint": "The diagonal of the space is the hypotenuse of a right triangle ,two sides 17,21\n a²+b²=c²\n 17²+21²=c²\n c²=730\n c≈27.02",
+    "qhint": "The diagonal of the space is the hypotenuse of a right triangle ,two sides 17,21\n a²+b²=c²\n 17²+21²=c²\n c²=730\n c=27.02",
     "imgid": "0"
   },
   {
